@@ -56,13 +56,13 @@ export default defineUserConfig({
   locales: {
     '/': {
       lang: 'zh-CN',
-      title: '赵斌的小站',
-      description: '赵斌的随笔和笔记',
+      title: '文心微雕',
+      description: 'GreatWall的随记',
     },
     '/en/': {
       lang: 'en-US',
-      title: "ZhaoBin's site",
-      description: "ZhaoBin's blogs and notes",
+      title: 'GreatWall’s blog',
+      description: "GreatWall's blogs and notes",
     },
   },
 

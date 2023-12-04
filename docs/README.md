@@ -3,12 +3,12 @@ home: true
 layout: BlogHome
 icon: home
 title: 主页
-heroImage: /logo.svg
-heroText: 赵斌的小站
+heroImage:
+heroText: 文心微雕
 heroFullScreen: true
-tagline: 生命不息，折腾不止。
-bgImage: /bg.jpg
-description: 赵斌的博客，随笔和笔记
+tagline: 求知若饥，虚心若愚。
+bgImage: /1241123.jpg
+description: Great Wall的博客，随笔和笔记
 
 containerClass: fancy-hero-text
 
@@ -34,5 +34,10 @@ projects:
   - icon: note
     name: 笔记
     desc: 笔记，琐事
+    link: https://github.com/FuckDoctors/notes2
+
+  - icon: java
+    name: 得到
+    desc: JAVA
     link: https://github.com/FuckDoctors/notes2
 ---

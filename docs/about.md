@@ -2,10 +2,10 @@
 home: true
 icon: home
 title: 关于我
-heroImage: /logo.svg
+heroImage: /sig.png
 heroText: 关于我
-tagline: 爱瞎折腾的码农
-description: 关于赵斌
+tagline: 唱跳，RAP，篮球
+description: 关于我
 
 head:
   - - meta
@@ -13,25 +13,17 @@ head:
       content: zhbchwin, ujn-bin, zhaobc, zhao bin, fuckdoctors
   - - meta
     - name: description
-      content: 关于赵斌
+      content: 关于GreatWall
 ---
 
 ## 个人介绍
 
-网络用名：`zhbchwin`，`UJN-Bin`。~~`FuckDoctors`（确实痛恨无良医生，请见谅，请忽略）~~
-
-真实名称`Zhao Binchen`，所以才用了此域名[zhaobc.site](https://www.zhaobc.site)。
-
-<div style="display: flex;justify-content: center;">
-  <iframe :src="$withBase('/zhaobc.site/index.html')" style="border:none;height:auto;width:305px;height:115px;" />
-</div>
-
 ## 兴趣爱好
 
 <!-- prettier-ignore -->
-没啥兴趣爱好，喜欢瞎折腾(ㄒoㄒ)
+唱跳，RAP，篮球
 
 ## 联系方式
 
-- 邮件：[hi@zhaobc.site](mailto:hi@zhaobc.site)
-- GitHub: [FuckDoctors](https://github.com/FuckDoctors)
+- 邮件：[greatwallheng@gmail.com](mailto:greatwallheng@gmail.com)
+- GitHub: [watch](https://github.com/FuckDoctors)

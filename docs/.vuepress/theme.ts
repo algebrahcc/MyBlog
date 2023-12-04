@@ -10,15 +10,15 @@ export const themeOptions: ThemeOptions = {
   hostname,
 
   author: {
-    name: 'Zhao Bin',
-    url: 'https://www.zhaobc.site',
+    name: 'Great Wall',
+    url: 'http://localhost:8080',
   },
 
   iconPrefix: 'iconfont icon-',
 
-  logo: '/logo.svg',
+  logo: '/sig.png',
 
-  repo: 'https://github.com/FuckDoctors/notes2',
+  // repo: 'https://github.com/FuckDoctors/notes3',
 
   fullscreen: true,
 
@@ -29,8 +29,8 @@ export const themeOptions: ThemeOptions = {
 
   blog: {
     medias: {
-      Email: 'mailto:hi@zhaobc.site',
-      GitHub: 'https://github.com/FuckDoctors',
+      Email: 'mailto:greatwallheng@gmail.com',
+      // GitHub: 'https://github.com/FuckDoctors',
     },
   },
 
@@ -45,13 +45,12 @@ export const themeOptions: ThemeOptions = {
       // sidebar
       sidebar: sidebar.zh,
 
-      footer:
-        '欢迎来到赵斌的小站 | 由 <a href="https://theme-hope.vuejs.press" target="_blank">Theme Hope</a> 驱动',
+      footer: "欢迎来到文心微雕 | GreatWall's Blog",
 
       displayFooter: true,
 
       blog: {
-        description: '一个码农，热爱Vue/Java',
+        description: '喜欢唱跳，RAP，篮球',
         intro: '/about.html',
       },
     },
@@ -66,13 +65,12 @@ export const themeOptions: ThemeOptions = {
       // sidebar
       sidebar: sidebar.en,
 
-      footer:
-        "Welcome to ZhaoBin's site | Powered by <a href='https://theme-hope.vuejs.press' target='_blank'>Theme Hope</a>",
+      footer: "欢迎来到文心微雕 | GreatWall's Blog",
 
       displayFooter: true,
 
       blog: {
-        description: 'A programmer, Vue/Java lover.',
+        description: '唱跳，RAP，篮球',
         intro: '/en/about.html',
       },
     },

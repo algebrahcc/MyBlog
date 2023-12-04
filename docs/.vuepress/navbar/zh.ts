@@ -75,7 +75,7 @@ export const zh = navbar([
       },
     ],
   },
-  '/projects',
-  { text: '链接', icon: 'link', link: '/links' },
+  // '/projects',
+  // { text: '链接', icon: 'link', link: '/links' },
   { text: '关于我', icon: 'people', link: '/about' },
 ])

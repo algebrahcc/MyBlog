@@ -3,11 +3,11 @@ home: true
 layout: BlogHome
 icon: home
 title: Home
-heroImage: /logo.svg
-heroText: ZhaoBin's site
-tagline: Cease to the struggle and cease to the life.
+heroImage:
+heroText: GreatWall’s blog
+tagline: Stay Hungary , Stay Foolish.
 heroFullScreen: true
-bgImage: /bg.jpg
+bgImage: /1241123.jpg
 description: ZhaoBin's blog and notes
 
 containerClass: fancy-hero-text

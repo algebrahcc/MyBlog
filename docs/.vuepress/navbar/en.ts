@@ -80,7 +80,7 @@ export const en = navbar([
       },
     ],
   },
-  '/en/projects',
-  { text: 'Link', icon: 'link', link: '/en/links' },
+  // '/en/projects',
+  // { text: 'Link', icon: 'link', link: '/en/links' },
   { text: 'About Me', icon: 'people', link: '/en/about' },
 ])
