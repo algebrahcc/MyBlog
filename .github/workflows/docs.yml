@@ -43,7 +43,7 @@ jobs:
       - name: Deploy to github pages
         uses: JamesIves/github-pages-deploy-action@v4
         with:
-          repository-name: FuckDoctors/fuckdoctors.github.io
-          branch: master
-          folder: docs/.vuepress/dist
+          repository-name: algebrahcc.github.io/MyBlog/
+          branch: main
+          folder: /dist
           token: ${{ secrets.ACCESS_TOKEN }}
