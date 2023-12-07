@@ -17,7 +17,7 @@
     "lint:format": "prettier --write \"**/*.{js,ts,json,css,scss,vue,html,md}\"",
     "lint:all": "pnpm lint:css && pnpm lint:js && pnpm lint:md && pnpm lint:remark && pnpm lint:format",
     "preview": "vite preview",
-    "preview-https": "serve dist",
+    "preview-https": "serve docs/.vuepress/dist",
     "test": "vitest",
     "test:e2e": "cypress open",
     "test:unit": "vitest",
