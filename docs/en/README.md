@@ -5,7 +5,7 @@ icon: home
 title: Home
 heroImage:
 heroText: GreatWall’s blog
-tagline: Stay Hungary , Stay Foolish.
+tagline: Stay Hungry , Stay Foolish.
 heroFullScreen: true
 bgImage: /1241123.jpg
 description: ZhaoBin's blog and notes
@@ -21,18 +21,23 @@ head:
       content: ZhaoBin's blog and notes
 
 projects:
-  - icon: redis
-    name: rdm-builder
-    desc: Redis Desktop Manager Builder
-    link: https://github.com/FuckDoctors/rdm-builder
+  - icon: people
+    name: About Me
+    desc: 关于我
+    link: '/about'
 
-  - icon: macOS
-    name: Hackintosh
-    desc: ideapad-720s-13ikb Hackintosh
-    link: https://github.com/FuckDoctors/ideapad-720s-13ikb-oc
+  - icon: typescript
+    name: Typescript
+    desc: TypeScript学习
+    link: 'notes/frontend/ts'
 
   - icon: note
     name: Notes
-    desc: Notes and others
-    link: https://github.com/FuckDoctors/notes2
+    desc: 笔记，琐事
+    link: '/notes/other'
+
+  - icon: java
+    name: Java
+    desc: JAVA学习笔记
+    link: 'notes/backend/java'
 ---

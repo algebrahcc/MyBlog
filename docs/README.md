@@ -7,7 +7,7 @@ heroImage:
 heroText: 文心微雕
 heroFullScreen: true
 tagline: 求知若饥，虚心若愚。
-bgImage: /1241123.jpg
+bgImage: /1207.png
 description: Great Wall的博客，随笔和笔记
 
 containerClass: fancy-hero-text
@@ -21,23 +21,23 @@ head:
       content: 赵斌的博客，随笔和笔记
 
 projects:
-  - icon: redis
-    name: rdm-builder
-    desc: Redis Desktop Manager编译，下载
-    link: https://github.com/FuckDoctors/rdm-builder
+  - icon: people
+    name: About Me
+    desc: 关于我
+    link: '/about'
 
-  - icon: macOS
-    name: 我的黑苹果
-    desc: ideapad-720s-13ikb 黑苹果
-    link: https://github.com/FuckDoctors/ideapad-720s-13ikb-oc
+  - icon: typescript
+    name: Typescript
+    desc: TypeScript学习
+    link: 'notes/frontend/ts'
 
   - icon: note
     name: 笔记
     desc: 笔记，琐事
-    link: https://github.com/FuckDoctors/notes2
+    link: '/notes/other'
 
   - icon: java
-    name: 得到
-    desc: JAVA
-    link: https://github.com/FuckDoctors/notes2
+    name: Java
+    desc: JAVA学习笔记
+    link: 'notes/backend/java'
 ---

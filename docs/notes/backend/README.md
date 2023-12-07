@@ -10,9 +10,6 @@ category:
 tag:
   - java
   - spring
-  - sprintboot
-  - springcloud
-  - redis
 ---
 
 # 后端笔记

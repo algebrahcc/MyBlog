@@ -2,7 +2,7 @@
 home: true
 icon: link
 title: Links
-heroImage: /logo.svg
+heroImage: /1.png
 heroText: Links
 tagline: Hyperlinks
 description: Links

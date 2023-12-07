@@ -2,7 +2,7 @@ import type { PWAOptions } from 'vuepress-plugin-pwa2'
 
 export const pwa: PWAOptions = {
   update: 'hint',
-  favicon: '/favicon.ico',
+  favicon: '/1.jpg',
   themeColor: '#46bd87',
   appendBase: true,
   cacheHTML: false,

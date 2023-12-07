@@ -18,10 +18,8 @@ export const zh = navbar([
         icon: 'template',
         prefix: 'frontend/',
         children: [
-          { text: 'JavaScript', link: 'js/' },
           { text: 'TypeScript', link: 'ts/' },
           { text: 'Vue', link: 'vue/' },
-          { text: 'Pinia', link: 'vue/pinia/' },
           { text: '更多', link: '', activeMatch: '^/notes/frontend/$' },
         ],
       },
@@ -39,14 +37,18 @@ export const zh = navbar([
             link: 'spring/',
           },
           {
-            text: 'Python',
-            link: 'python/',
-          },
-          {
             text: '更多',
             link: '',
             activeMatch: '^/notes/backend/$',
           },
+        ],
+      },
+      {
+        text: '投资',
+        icon: 'note',
+        prefix: 'investment/',
+        children: [
+          { text: 'Strategy', link: 'Strategy/' },
         ],
       },
       { text: '其他', link: 'other/' },

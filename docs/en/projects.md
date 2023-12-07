@@ -2,7 +2,7 @@
 home: true
 icon: creative
 title: Projects
-heroImage: /logo.svg
+heroImage: /1.jpg
 heroText: Projects
 tagline: Created Projects.
 description: ZhaoBin's projects

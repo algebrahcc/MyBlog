@@ -16,7 +16,7 @@ export const themeOptions: ThemeOptions = {
 
   iconPrefix: 'iconfont icon-',
 
-  logo: '/sig.png',
+  logo: '/1.jpg',
 
   // repo: 'https://github.com/FuckDoctors/notes3',
 
@@ -24,8 +24,8 @@ export const themeOptions: ThemeOptions = {
 
   docsDir: 'docs',
 
-  // pageInfo: ['Author', 'Original', 'Date', 'Category', 'Tag', 'ReadingTime'],
-  pageInfo: ['Author', 'Original', 'Date', 'Category', 'Tag'],
+  pageInfo: ['Author', 'Original', 'Date', 'Category', 'Tag', 'ReadingTime'],
+  // pageInfo: ['Author', 'Original', 'Date', 'Category', 'Tag'],
 
   blog: {
     medias: {
@@ -50,7 +50,7 @@ export const themeOptions: ThemeOptions = {
       displayFooter: true,
 
       blog: {
-        description: '喜欢唱跳，RAP，篮球',
+        description: '一个半吊子工程师',
         intro: '/about.html',
       },
     },
@@ -70,7 +70,7 @@ export const themeOptions: ThemeOptions = {
       displayFooter: true,
 
       blog: {
-        description: '唱跳，RAP，篮球',
+        description: '一个半吊子工程师',
         intro: '/en/about.html',
       },
     },
@@ -94,7 +94,6 @@ export const themeOptions: ThemeOptions = {
       componentOptions: {
         share: {
           services: [
-            'qrcode',
             'qq',
             'weibo',
             'evernote',

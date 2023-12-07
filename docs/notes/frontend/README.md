@@ -8,10 +8,8 @@ category:
   - 笔记
   - frontend
 tag:
-  - js
+  - pinia
   - ts
-  - html
-  - css
   - vue
 ---
 
