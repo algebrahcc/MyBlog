@@ -13,7 +13,7 @@ export default defineUserConfig({
 
   // debug: true,
 
-  base,
+  base: '/MyBlog/',
 
   dest: 'dist',
 
