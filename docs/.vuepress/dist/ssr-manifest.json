@@ -14,7 +14,7 @@
   "../../@vite-plugin-pages/route-block": [
   ],
   "../../@vite-plugin-pwa/virtual:pwa-register": [
-    "/MyBlog/assets/virtual_pwa-register-91dd6ecc.js"
+    "/docs/.vuepress/dist/assets/virtual_pwa-register-89672382.js"
   ],
   "../../@vite-plugin-vue-layouts/generated-layouts": [
   ],
@@ -27,13 +27,13 @@
   "index.html": [
   ],
   "locales/en.yml": [
-    "/MyBlog/assets/en-58641bd2.js"
+    "/docs/.vuepress/dist/assets/en-58641bd2.js"
   ],
   "locales/ja.yml": [
-    "/MyBlog/assets/ja-d59f836d.js"
+    "/docs/.vuepress/dist/assets/ja-d59f836d.js"
   ],
   "locales/zh-CN.yml": [
-    "/MyBlog/assets/zh-CN-78ecf232.js"
+    "/docs/.vuepress/dist/assets/zh-CN-78ecf232.js"
   ],
   "node_modules/.pnpm/@intlify+core-base@9.4.1/node_modules/@intlify/core-base/dist/core-base.mjs": [
   ],
@@ -84,7 +84,7 @@
   "node_modules/.pnpm/vue-router@4.2.4_vue@3.3.4/node_modules/vue-router/dist/vue-router.mjs": [
   ],
   "node_modules/.pnpm/workbox-window@7.0.0/node_modules/workbox-window/build/workbox-window.prod.es5.mjs": [
-    "/MyBlog/assets/workbox-window.prod.es5-a7b12eab.js"
+    "/docs/.vuepress/dist/assets/workbox-window.prod.es5-a7b12eab.js"
   ],
   "src/App.vue?vue&type=script&setup=true&lang.ts": [
   ],
@@ -95,15 +95,15 @@
   "src/composables/dark.ts": [
   ],
   "src/layouts/404.vue": [
-    "/MyBlog/assets/404-7f8bebde.js"
+    "/docs/.vuepress/dist/assets/404-3f66a653.js"
   ],
   "src/layouts/404.vue?vue&type=script&setup=true&lang.ts": [
-    "/MyBlog/assets/404-7f8bebde.js"
+    "/docs/.vuepress/dist/assets/404-3f66a653.js"
   ],
   "src/layouts/default.vue": [
   ],
   "src/layouts/home.vue": [
-    "/MyBlog/assets/home-bf5fda59.js"
+    "/docs/.vuepress/dist/assets/home-9904d9d4.js"
   ],
   "src/main.ts": [
   ],
@@ -116,22 +116,22 @@
   "src/modules/pwa.ts": [
   ],
   "src/pages/README.md": [
-    "/MyBlog/assets/README-031d17b3.js"
+    "/docs/.vuepress/dist/assets/README-013d3572.js"
   ],
   "src/pages/[...all].vue": [
-    "/MyBlog/assets/_...all_-ebdc6176.js"
+    "/docs/.vuepress/dist/assets/_...all_-f1ca008c.js"
   ],
   "src/pages/[...all].vue?vue&type=script&setup=true&lang.ts": [
-    "/MyBlog/assets/_...all_-ebdc6176.js"
+    "/docs/.vuepress/dist/assets/_...all_-f1ca008c.js"
   ],
   "src/pages/about.md": [
-    "/MyBlog/assets/about-71d7b9b6.js"
+    "/docs/.vuepress/dist/assets/about-fa6d5c48.js"
   ],
   "src/pages/hi/[name].vue": [
-    "/MyBlog/assets/_name_-3f3885d8.js"
+    "/docs/.vuepress/dist/assets/_name_-61cec3cd.js"
   ],
   "src/pages/hi/[name].vue?vue&type=script&setup=true&lang.ts": [
-    "/MyBlog/assets/_name_-3f3885d8.js"
+    "/docs/.vuepress/dist/assets/_name_-61cec3cd.js"
   ],
   "src/pages/index.vue": [
   ],

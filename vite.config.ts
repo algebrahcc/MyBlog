@@ -17,10 +17,10 @@ import Shiki from 'markdown-it-shiki'
 import WebfontDownload from 'vite-plugin-webfont-dl'
 
 export default defineConfig({
-  // build: {
-  //   outDir: '/docs/.vuepress/dist', // 修改为你希望的输出目录
-  // },
-  base: '/MyBlog',
+  build: {
+    outDir: 'docs/.vuepress/dist/', // 修改为你希望的输出目录
+  },
+  base: 'docs/.vuepress/dist/',
   resolve: {
     alias: {
       '@/': `${path.resolve(__dirname)}/`,
@@ -164,16 +164,16 @@ export default defineConfig({
   },
 
   // https://github.com/antfu/vite-ssg
-  ssgOptions: {
-    script: 'async',
-    formatting: 'minify',
-    crittersOptions: {
-      reduceInlineStyles: false,
-    },
-    onFinished() {
-      generateSitemap()
-    },
-  },
+  // ssgOptions: {
+  //   script: 'async',
+  //   formatting: 'minify',
+  //   crittersOptions: {
+  //     reduceInlineStyles: false,
+  //   },
+  //   onFinished() {
+  //     generateSitemap()
+  //   },
+  // },
 
   ssr: {
     // TODO: workaround until they support native ESM

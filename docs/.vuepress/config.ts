@@ -15,7 +15,7 @@ export default defineUserConfig({
 
   base,
 
-  dest: '/dist',
+  dest: 'docs/.vuepress/dist',
 
   head: [
     [
