@@ -14,7 +14,7 @@
   "../../@vite-plugin-pages/route-block": [
   ],
   "../../@vite-plugin-pwa/virtual:pwa-register": [
-    "/docs/.vuepress/dist/assets/virtual_pwa-register-89672382.js"
+    "/assets/virtual_pwa-register-2a920ee5.js"
   ],
   "../../@vite-plugin-vue-layouts/generated-layouts": [
   ],
@@ -27,13 +27,13 @@
   "index.html": [
   ],
   "locales/en.yml": [
-    "/docs/.vuepress/dist/assets/en-58641bd2.js"
+    "/assets/en-58641bd2.js"
   ],
   "locales/ja.yml": [
-    "/docs/.vuepress/dist/assets/ja-d59f836d.js"
+    "/assets/ja-d59f836d.js"
   ],
   "locales/zh-CN.yml": [
-    "/docs/.vuepress/dist/assets/zh-CN-78ecf232.js"
+    "/assets/zh-CN-78ecf232.js"
   ],
   "node_modules/.pnpm/@intlify+core-base@9.4.1/node_modules/@intlify/core-base/dist/core-base.mjs": [
   ],
@@ -84,7 +84,7 @@
   "node_modules/.pnpm/vue-router@4.2.4_vue@3.3.4/node_modules/vue-router/dist/vue-router.mjs": [
   ],
   "node_modules/.pnpm/workbox-window@7.0.0/node_modules/workbox-window/build/workbox-window.prod.es5.mjs": [
-    "/docs/.vuepress/dist/assets/workbox-window.prod.es5-a7b12eab.js"
+    "/assets/workbox-window.prod.es5-a7b12eab.js"
   ],
   "src/App.vue?vue&type=script&setup=true&lang.ts": [
   ],
@@ -95,15 +95,15 @@
   "src/composables/dark.ts": [
   ],
   "src/layouts/404.vue": [
-    "/docs/.vuepress/dist/assets/404-3f66a653.js"
+    "/assets/404-9d70762b.js"
   ],
   "src/layouts/404.vue?vue&type=script&setup=true&lang.ts": [
-    "/docs/.vuepress/dist/assets/404-3f66a653.js"
+    "/assets/404-9d70762b.js"
   ],
   "src/layouts/default.vue": [
   ],
   "src/layouts/home.vue": [
-    "/docs/.vuepress/dist/assets/home-9904d9d4.js"
+    "/assets/home-2d83d93b.js"
   ],
   "src/main.ts": [
   ],
@@ -116,22 +116,22 @@
   "src/modules/pwa.ts": [
   ],
   "src/pages/README.md": [
-    "/docs/.vuepress/dist/assets/README-013d3572.js"
+    "/assets/README-bb22f792.js"
   ],
   "src/pages/[...all].vue": [
-    "/docs/.vuepress/dist/assets/_...all_-f1ca008c.js"
+    "/assets/_...all_-abe99eec.js"
   ],
   "src/pages/[...all].vue?vue&type=script&setup=true&lang.ts": [
-    "/docs/.vuepress/dist/assets/_...all_-f1ca008c.js"
+    "/assets/_...all_-abe99eec.js"
   ],
   "src/pages/about.md": [
-    "/docs/.vuepress/dist/assets/about-fa6d5c48.js"
+    "/assets/about-00c42c4f.js"
   ],
   "src/pages/hi/[name].vue": [
-    "/docs/.vuepress/dist/assets/_name_-61cec3cd.js"
+    "/assets/_name_-b97a0aec.js"
   ],
   "src/pages/hi/[name].vue?vue&type=script&setup=true&lang.ts": [
-    "/docs/.vuepress/dist/assets/_name_-61cec3cd.js"
+    "/assets/_name_-b97a0aec.js"
   ],
   "src/pages/index.vue": [
   ],
