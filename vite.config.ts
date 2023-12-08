@@ -20,6 +20,7 @@ export default defineConfig({
   // build: {
   //   outDir: '/docs/.vuepress/dist', // 修改为你希望的输出目录
   // },
+  base: '/MyBlog',
   resolve: {
     alias: {
       '@/': `${path.resolve(__dirname)}/`,

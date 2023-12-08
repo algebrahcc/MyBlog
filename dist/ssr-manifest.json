@@ -14,7 +14,7 @@
   "../../@vite-plugin-pages/route-block": [
   ],
   "../../@vite-plugin-pwa/virtual:pwa-register": [
-    "/assets/virtual_pwa-register-2a920ee5.js"
+    "/MyBlog/assets/virtual_pwa-register-39405f89.js"
   ],
   "../../@vite-plugin-vue-layouts/generated-layouts": [
   ],
@@ -27,13 +27,13 @@
   "index.html": [
   ],
   "locales/en.yml": [
-    "/assets/en-58641bd2.js"
+    "/MyBlog/assets/en-58641bd2.js"
   ],
   "locales/ja.yml": [
-    "/assets/ja-d59f836d.js"
+    "/MyBlog/assets/ja-d59f836d.js"
   ],
   "locales/zh-CN.yml": [
-    "/assets/zh-CN-78ecf232.js"
+    "/MyBlog/assets/zh-CN-78ecf232.js"
   ],
   "node_modules/.pnpm/@intlify+core-base@9.4.1/node_modules/@intlify/core-base/dist/core-base.mjs": [
   ],
@@ -84,7 +84,7 @@
   "node_modules/.pnpm/vue-router@4.2.4_vue@3.3.4/node_modules/vue-router/dist/vue-router.mjs": [
   ],
   "node_modules/.pnpm/workbox-window@7.0.0/node_modules/workbox-window/build/workbox-window.prod.es5.mjs": [
-    "/assets/workbox-window.prod.es5-a7b12eab.js"
+    "/MyBlog/assets/workbox-window.prod.es5-a7b12eab.js"
   ],
   "src/App.vue?vue&type=script&setup=true&lang.ts": [
   ],
@@ -95,15 +95,15 @@
   "src/composables/dark.ts": [
   ],
   "src/layouts/404.vue": [
-    "/assets/404-9d70762b.js"
+    "/MyBlog/assets/404-d993c2f4.js"
   ],
   "src/layouts/404.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/404-9d70762b.js"
+    "/MyBlog/assets/404-d993c2f4.js"
   ],
   "src/layouts/default.vue": [
   ],
   "src/layouts/home.vue": [
-    "/assets/home-2d83d93b.js"
+    "/MyBlog/assets/home-19f1004a.js"
   ],
   "src/main.ts": [
   ],
@@ -116,22 +116,22 @@
   "src/modules/pwa.ts": [
   ],
   "src/pages/README.md": [
-    "/assets/README-bb22f792.js"
+    "/MyBlog/assets/README-4eb44c1e.js"
   ],
   "src/pages/[...all].vue": [
-    "/assets/_...all_-abe99eec.js"
+    "/MyBlog/assets/_...all_-94d50df3.js"
   ],
   "src/pages/[...all].vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/_...all_-abe99eec.js"
+    "/MyBlog/assets/_...all_-94d50df3.js"
   ],
   "src/pages/about.md": [
-    "/assets/about-00c42c4f.js"
+    "/MyBlog/assets/about-7f42cd5c.js"
   ],
   "src/pages/hi/[name].vue": [
-    "/assets/_name_-b97a0aec.js"
+    "/MyBlog/assets/_name_-7c7fdcdb.js"
   ],
   "src/pages/hi/[name].vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/_name_-b97a0aec.js"
+    "/MyBlog/assets/_name_-7c7fdcdb.js"
   ],
   "src/pages/index.vue": [
   ],
