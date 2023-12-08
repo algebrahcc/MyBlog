@@ -14,7 +14,7 @@
   "../../@vite-plugin-pages/route-block": [
   ],
   "../../@vite-plugin-pwa/virtual:pwa-register": [
-    "/MyBlog/assets/virtual_pwa-register-39405f89.js"
+    "/MyBlog/assets/virtual_pwa-register-91dd6ecc.js"
   ],
   "../../@vite-plugin-vue-layouts/generated-layouts": [
   ],
@@ -95,15 +95,15 @@
   "src/composables/dark.ts": [
   ],
   "src/layouts/404.vue": [
-    "/MyBlog/assets/404-d993c2f4.js"
+    "/MyBlog/assets/404-7f8bebde.js"
   ],
   "src/layouts/404.vue?vue&type=script&setup=true&lang.ts": [
-    "/MyBlog/assets/404-d993c2f4.js"
+    "/MyBlog/assets/404-7f8bebde.js"
   ],
   "src/layouts/default.vue": [
   ],
   "src/layouts/home.vue": [
-    "/MyBlog/assets/home-19f1004a.js"
+    "/MyBlog/assets/home-bf5fda59.js"
   ],
   "src/main.ts": [
   ],
@@ -116,22 +116,22 @@
   "src/modules/pwa.ts": [
   ],
   "src/pages/README.md": [
-    "/MyBlog/assets/README-4eb44c1e.js"
+    "/MyBlog/assets/README-031d17b3.js"
   ],
   "src/pages/[...all].vue": [
-    "/MyBlog/assets/_...all_-94d50df3.js"
+    "/MyBlog/assets/_...all_-ebdc6176.js"
   ],
   "src/pages/[...all].vue?vue&type=script&setup=true&lang.ts": [
-    "/MyBlog/assets/_...all_-94d50df3.js"
+    "/MyBlog/assets/_...all_-ebdc6176.js"
   ],
   "src/pages/about.md": [
-    "/MyBlog/assets/about-7f42cd5c.js"
+    "/MyBlog/assets/about-71d7b9b6.js"
   ],
   "src/pages/hi/[name].vue": [
-    "/MyBlog/assets/_name_-7c7fdcdb.js"
+    "/MyBlog/assets/_name_-3f3885d8.js"
   ],
   "src/pages/hi/[name].vue?vue&type=script&setup=true&lang.ts": [
-    "/MyBlog/assets/_name_-7c7fdcdb.js"
+    "/MyBlog/assets/_name_-3f3885d8.js"
   ],
   "src/pages/index.vue": [
   ],
