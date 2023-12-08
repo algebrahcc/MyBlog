@@ -17,6 +17,9 @@ import Shiki from 'markdown-it-shiki'
 import WebfontDownload from 'vite-plugin-webfont-dl'
 
 export default defineConfig({
+  // build: {
+  //   outDir: '/docs/.vuepress/dist', // 修改为你希望的输出目录
+  // },
   resolve: {
     alias: {
       '@/': `${path.resolve(__dirname)}/`,

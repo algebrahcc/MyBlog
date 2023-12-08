@@ -37,13 +37,13 @@ jobs:
         env:
           NODE_OPTIONS: --max_old_space_size=8192
           BASE: /
-          # HOSTNAME: https://fuckdoctors.github.io/
+          HOSTNAME: https://algebrahcc.github.io/
         run: pnpm run docs:build
 
       - name: Deploy to github pages
         uses: JamesIves/github-pages-deploy-action@v4
         with:
-          repository-name: algebrahcc.github.io/MyBlog/
+          repository-name: /MyBlog/
           branch: main
-          folder: /docs/.vuepress/dist
+          folder: /dist
           token: ${{ secrets.ACCESS_TOKEN }}

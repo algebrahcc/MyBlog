@@ -14,7 +14,7 @@
   "../../@vite-plugin-pages/route-block": [
   ],
   "../../@vite-plugin-pwa/virtual:pwa-register": [
-    "/assets/virtual_pwa-register-daed9834.js"
+    "/assets/virtual_pwa-register-2a920ee5.js"
   ],
   "../../@vite-plugin-vue-layouts/generated-layouts": [
   ],
@@ -95,15 +95,15 @@
   "src/composables/dark.ts": [
   ],
   "src/layouts/404.vue": [
-    "/assets/404-677166d9.js"
+    "/assets/404-9d70762b.js"
   ],
   "src/layouts/404.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/404-677166d9.js"
+    "/assets/404-9d70762b.js"
   ],
   "src/layouts/default.vue": [
   ],
   "src/layouts/home.vue": [
-    "/assets/home-ac19a724.js"
+    "/assets/home-2d83d93b.js"
   ],
   "src/main.ts": [
   ],
@@ -116,22 +116,22 @@
   "src/modules/pwa.ts": [
   ],
   "src/pages/README.md": [
-    "/assets/README-a00d11a2.js"
+    "/assets/README-bb22f792.js"
   ],
   "src/pages/[...all].vue": [
-    "/assets/_...all_-461e2728.js"
+    "/assets/_...all_-abe99eec.js"
   ],
   "src/pages/[...all].vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/_...all_-461e2728.js"
+    "/assets/_...all_-abe99eec.js"
   ],
   "src/pages/about.md": [
-    "/assets/about-5cd9c24d.js"
+    "/assets/about-00c42c4f.js"
   ],
   "src/pages/hi/[name].vue": [
-    "/assets/_name_-5f38abcc.js"
+    "/assets/_name_-b97a0aec.js"
   ],
   "src/pages/hi/[name].vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/_name_-5f38abcc.js"
+    "/assets/_name_-b97a0aec.js"
   ],
   "src/pages/index.vue": [
   ],
