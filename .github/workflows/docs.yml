@@ -46,7 +46,7 @@ jobs:
       - name: Deploy to github pages
         uses: JamesIves/github-pages-deploy-action@v4
         with:
-          repository-name: /algebrahcc.github.io/MyBlog
+          repository-name: algebrahcc.github.io/MyBlog
           branch: main
           folder: dist
           token: ${{ secrets.ACCESS_TOKEN }}
