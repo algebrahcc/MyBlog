@@ -1,6 +1,0 @@
-dist
-public
-**/coverage/
-
-docs/.vuepress/.cache/
-docs/.vuepress/.temp/
