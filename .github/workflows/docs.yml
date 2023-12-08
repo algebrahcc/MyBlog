@@ -45,5 +45,5 @@ jobs:
         with:
           repository-name: algebrahcc.github.io/MyBlog/
           branch: main
-          folder: /docs/.vuepress/dist
+          folder: docs/.vuepress/dist
           token: ${{ secrets.ACCESS_TOKEN }}
